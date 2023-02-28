@@ -1,5 +1,5 @@
 # 파이썬 코딩테스트 스터디
-- 화요일 20시: [이것이 취업을 위한 코딩 테스트다](https://github.com/ndb796/python-for-coding-test)
+- 화요일 20시: [이것이 취업을 위한 코딩 테스트다](https://github.com/Yu-jiwon/codingtest_study)
 - 금요일 20시: [백준](https://www.acmicpc.net)
 <br>
 
